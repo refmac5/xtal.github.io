@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title></title>
+    <style type="text/css">
+#s {
+  font-size: x-large;
+}
+
+</style></head>
+  <body id="s">
+    <p> </p>
+    <h4 style="box-sizing: inherit; margin: 0px 0px 0.5em; padding: 0px; border: 0px; font-weight: bold; font-size: 1.15385em; color: rgb(58, 58, 58); font-family: Arial, Helvetica, sans-serif; font-style: normal; font-variant: normal; font-stretch: normal; line-height: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;">Phosphorylation
+      Protocol</h4>
+    <div>T4 polynucleotide kinase</div>
+    <div>10,000 units/mL</div>
+    <div>Stored at -20C</div>
+    <div><br>
+    </div>
+    <div>Catalyzes the transfer and exchange of Pi from the gamma position of
+      ATP to the 5'hydroxyl terminus of polynucleotides for further ligation</div>
+    <div><br>
+    </div>
+    <div><b>Protocol:</b></div>
+    <div><br>
+    </div>
+    <div>
+      <table class="bordered-tables" style="box-sizing: inherit; border-collapse: collapse; border: 1px solid #bbbbbb; font-size: 0.923077em; line-height: 1.33333em; margin: 1em 0px; width: 788px; border-spacing: 0px; max-width: 100%; background-color: white; color: #3a3a3a; font-family: Arial,Helvetica,sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; height: 157px;">
+        <tbody style="box-sizing: inherit;">
+          <tr>
+            <td rowspan="1" colspan="2">Total volume: 50 uL</td>
+          </tr>
+          <tr class="border" style="box-sizing: inherit; vertical-align: top; border-bottom: 1px solid rgb(179, 179, 179);">
+            <td style="box-sizing: inherit; border: 1px solid rgb(179, 179, 179); padding: 7px; vertical-align: top;">T4
+              PNK</td>
+            <td style="box-sizing: inherit; border: 1px solid rgb(179, 179, 179); padding: 7px; vertical-align: top;">1
+              µl (10 units)</td>
+          </tr>
+          <tr class="border" style="box-sizing: inherit; vertical-align: top; border-bottom: 1px solid rgb(179, 179, 179);">
+            <td style="box-sizing: inherit; border: 1px solid rgb(179, 179, 179); padding: 7px; vertical-align: top; background-color: rgb(236, 237, 232);">10X
+              T4 PNK Buffer</td>
+            <td style="box-sizing: inherit; border: 1px solid rgb(179, 179, 179); padding: 7px; vertical-align: top; background-color: rgb(236, 237, 232);">5
+              µl</td>
+          </tr>
+          <tr class="border" style="box-sizing: inherit; vertical-align: top; border-bottom: 1px solid rgb(179, 179, 179);">
+            <td style="box-sizing: inherit; border: 1px solid rgb(179, 179, 179); padding: 7px; vertical-align: top;">10
+              mM ATP</td>
+            <td style="box-sizing: inherit; border: 1px solid rgb(179, 179, 179); padding: 7px; vertical-align: top;">5
+              µl (1 mM final conc.)</td>
+          </tr>
+          <tr class="border" style="box-sizing: inherit; vertical-align: top; border-bottom: 1px solid rgb(179, 179, 179);">
+            <td style="box-sizing: inherit; border: 1px solid rgb(179, 179, 179); padding: 7px; vertical-align: top; background-color: rgb(236, 237, 232);">DNA
+              (20 mer)</td>
+            <td style="box-sizing: inherit; border: 1px solid rgb(179, 179, 179); padding: 7px; vertical-align: top; background-color: rgb(236, 237, 232);">10
+              uL(1-2 µg )</td>
+          </tr>
+          <tr class="border" style="box-sizing: inherit; vertical-align: top; border-bottom: 1px solid rgb(179, 179, 179);">
+            <td style="box-sizing: inherit; border: 1px solid rgb(179, 179, 179); padding: 7px; vertical-align: top;">Nuclease-free
+              Water</td>
+            <td style="box-sizing: inherit; border: 1px solid rgb(179, 179, 179); padding: 7px; vertical-align: top;">Fill
+              to 50 µl</td>
+          </tr>
+          <tr class="border" style="box-sizing: inherit; vertical-align: top; border-bottom: 1px solid rgb(179, 179, 179);">
+            <td style="box-sizing: inherit; border: 1px solid rgb(179, 179, 179); padding: 7px; vertical-align: top; background-color: rgb(236, 237, 232);">Incubation</td>
+            <td style="box-sizing: inherit; border: 1px solid rgb(179, 179, 179); padding: 7px; vertical-align: top; background-color: rgb(236, 237, 232);">37°C
+              for 30 minutes</td>
+          </tr>
+          <tr>
+            <td>Heat inactivate (optional)</td>
+            <td>65C for 20 min</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div><br>
+    </div>
+    <div>---------------------------------------------------------------------------------------------------------------------------------------------</div>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <div><b>Ligation Protocol:<br>
+      </b></div>
+    <div><br>
+    </div>
+    <div>
+      <table style="width: 517px; height: 208px;" border="1">
+        <tbody>
+          <tr>
+            <td rowspan="1" colspan="2">total volume: 20 uL</td>
+          </tr>
+          <tr>
+            <td style="width: 258.683px;">PCR product</td>
+            <td style="width: 242.317px;">2-5 uL</td>
+          </tr>
+          <tr>
+            <td>Reaction buffer (2x)</td>
+            <td>10 uL</td>
+          </tr>
+          <tr>
+            <td>T4 ligase</td>
+            <td>1 uL</td>
+          </tr>
+          <tr>
+            <td>Sterile water</td>
+            <td>fill up to 20 uL</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div><br>
+    </div>
+    <div>1. Mix gentally by pipetting up and down and microfuge briefly</div>
+    <div>2. incubate @ 16C O/N or room temperature for 2 h</div>
+    <div>3. (optional: Heat inactivate @ 65C for 10 min)</div>
+    <div>4. Chill on ice and transform 1-5 uL of the reaction into 50 uL
+      competent cells (alternatively, you can store the ligation product at -20C
+      and do the transformation on the second day)</div>
+    <p></p>
+  </body>
+</html>
